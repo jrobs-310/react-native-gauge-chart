@@ -1,3 +1,4 @@
+// @ts-ignore
 import React from "react";
 import {View} from "react-native"
 import Animated, {withSpring, useSharedValue, useDerivedValue, useAnimatedProps, withDelay} from 'react-native-reanimated'
